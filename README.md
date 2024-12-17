@@ -2,6 +2,8 @@
 
 PsychoChauffeur is a Telegram bot that enhances chat experience by providing link modification, GPT integration, weather updates, and various utility functions. The bot is designed to be simple to use and efficient in handling various chat-related tasks.
 
+This specifically is a fork made by Pavel Pálenik (AKA SC4UT-the-hedgehog).
+
 ## Core Features
 
 - **Link Modification**
